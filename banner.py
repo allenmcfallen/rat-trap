@@ -10,7 +10,7 @@ banner1 = '''
 :!:  !:!  :!:  !:!    :!:         :!:    :!:  !:!  :!:  !:!  :!:       
 ::   :::  ::   :::     ::          ::    ::   :::  ::   :::   ::       
  :   : :   :   : :     :           :      :   : :   :   : :   :       
-             <:3)~~ Developed By @malentent ~~(8:>
+             <:3)~~ Developed By @melentent ~~(8:>
            <:3)~~ Do Not Use for illegal activity ~~(8:>
       <:3)~~ Any illegal usage is not my responsibility ~~(8:>\033[0m
 '''
@@ -22,7 +22,7 @@ banner2 = '''
   +#+    +#+ +#+     +#+ +#+              +#+     +#+    +#+ +#+     +#+ +#+           
  #+#    #+# #+#     #+# #+#              #+#     #+#    #+# #+#     #+# #+#            
 ###    ### ###     ### ###              ###     ###    ### ###     ### ###
-                  <:3)~~ Developed By @malentent ~~(8:>
+                  <:3)~~ Developed By @melentent ~~(8:>
                 <:3)~~ Do Not Use for illegal activity ~~(8:>
            <:3)~~ Any illegal usage is not my responsibility ~~(8:>\033[0m
 '''
@@ -41,7 +41,7 @@ S*S    S&S  S*S    S*S       S*S                  S*S       S*S    S&S  S*S    S
 S*S    SSS  SSS    S*S       S*S                  S*S       S*S    SSS  SSS    S*S  S*S         
 SP                 SP        SP                   SP        SP                 SP   SP          
 Y                  Y         Y                    Y         Y                  Y    Y
-                          <:3)~~ Developed By @malentent ~~(8:>
+                          <:3)~~ Developed By @melentent ~~(8:>
                         <:3)~~ Do Not Use for illegal activity ~~(8:>
                    <:3)~~ Any illegal usage is not my responsibility ~~(8:>\033[0m
 
@@ -56,7 +56,7 @@ banner4 = '''
   ███    ███   ███    ███     ███              ███       ███    ███   ███    ███   ███        
   ███    ███   ███    █▀     ▄████▀           ▄████▀     ███    ███   ███    █▀   ▄████▀      
   ███    ███                                             ███    ███
-                           <:3)~~ Developed By @malentent ~~(8:>
+                           <:3)~~ Developed By @melentent ~~(8:>
                          <:3)~~ Do Not Use for illegal activity ~~(8:>
                    <:3)~~ Any illegal usage is not my responsibility ~~(8:>\033[0m
 
@@ -71,7 +71,7 @@ banner5 = '''
   ░▒ ░ ▒░  ▒   ▒▒ ░   ░           ░      ░▒ ░ ▒░  ▒   ▒▒ ░░▒ ░     
   ░░   ░   ░   ▒    ░           ░        ░░   ░   ░   ▒   ░░       
    ░           ░  ░                       ░           ░  ░
-             <:3)~~ Developed By @malentent ~~(8:>
+             <:3)~~ Developed By @melentent ~~(8:>
            <:3)~~ Do Not Use for illegal activity ~~(8:>
       <:3)~~ Any illegal usage is not my responsibility ~~(8:>\033[0m
 
