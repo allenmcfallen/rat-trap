@@ -4,7 +4,7 @@
 ![img](img.png)
 ## Setup
 ```bash
-git clone https://github.com/allenmcfallen/RatTrap
+git clone https://github.com/malentent/RatTrap
 cd RatTrap
 pip3 install pyngrok
 sudo apt install php
